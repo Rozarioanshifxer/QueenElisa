@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==QVSpVYLZHNFhzNkZ1XH92byJzMZN0T0ZHOyFjZSVHWud2UZxEetFUciJlNjkkNEVkawokTpwd=515425282619',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -18,21 +18,21 @@ module.exports = {
 ☫ Work Type : @worktype
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
-  ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  ALIVE_MEDIA: 'https://files.catbox.moe/2719vn.mp4',
+  MONGODB_URL: 'postgresql://xena_99td_user:geJrFwxwGMSHYAouRs2J1emap7As7jdB@dpg-cs2ljle8ii6s739l4u1g-a.oregon-postgres.render.com/xena_99td', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  BOT_NAME: ' ᴀɴsʜɪғ xᴇʀ',
+  OWNER_NAME: ' ᴀɴsʜɪғ xᴇʀ',
+  OWNER_NUMBER: '916282524515',
+  SUDO: '916282524515',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
-  STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
-  STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
+  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ  ᴀɴsʜɪғ xᴇʀ',
+  STICKER_AUTHOR: ' ᴀɴsʜɪғ xᴇʀ',
+  STICKER_PACK: 'ᴍʀ  ᴀɴsʜɪғ xᴇʀ',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '👽',
