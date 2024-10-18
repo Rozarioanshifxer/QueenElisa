@@ -19,7 +19,7 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://files.catbox.moe/2719vn.mp4',
-  MONGODB_URL: 'postgresql://xena_99td_user:geJrFwxwGMSHYAouRs2J1emap7As7jdB@dpg-cs2ljle8ii6s739l4u1g-a.oregon-postgres.render.com/xena_99td', 
+  MONGODB_URL: 'mongodb+srv://KUSHAN:123490@cluster0.02mtt.mongodb.net/', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
